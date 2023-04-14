@@ -4,7 +4,7 @@ A Front End<b>ReactJS NextJS</b> Developer and eagerly snatching up whatever pro
 
 :mailbox: Reach me out!
 
-[![Freelancer Badge](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/sarmed)](https://www.upwork.com/freelancers/~01dc31d3b5de771d02) [![Linkedin Badge](https://img.shields.io/badge/-@sarmedrizvi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiaz-hussain-a48391211/) [![Mail Badge](https://img.shields.io/badge/-sarmedrizvi@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:imtiazh993@gmail.com)
+[![Freelancer Badge](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/sarmed)](https://www.upwork.com/freelancers/~01dc31d3b5de771d02) [![Linkedin Badge](https://img.shields.io/badge/-@imtiazhussain-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiaz-hussain-a48391211/) [![Mail Badge](https://img.shields.io/badge/-imtiazh993@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:imtiazh993@gmail.com)
 
 - 🔭 I’m currently working as a Fulltime Developer @ Esspfa and <a href='https://upwork.com/'>Upwork</a>
 - :computer: Most used line of code `git commit -m "Initial Commit"`
@@ -26,7 +26,3 @@ A Front End<b>ReactJS NextJS</b> Developer and eagerly snatching up whatever pro
 I enjoy creating user-friendly online applications that promote large traffic, lots of page views, and great user experiences. removing issues from current websites and adding improvements that greatly increase the operation and speed of the web. Ensured that all projects were delivered on schedule and efficiently, managing the entire lifecycle of software development for many.
 
 I long to collaborate with you and offer high-level, solid answers to your programming problems. Please get in touch with me so that we may talk more about how to fulfil your needs.
-
-### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=imtiaz993&count_private=true&theme=tokyonight&hide=contribs,prs)
