@@ -1,6 +1,6 @@
 ## Hi I'm Imtiaz Hussain <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-A Front End<b>ReactJS NextJS</b> Developer and eagerly snatching up whatever programming languages, frameworks, or concepts I can incorporate into the mental coding web I've created.
+A Front End <b>ReactJS NextJS React Native</b> Developer and eagerly snatching up whatever programming languages, frameworks, or concepts I can incorporate into the mental coding web I've created.
 
 :mailbox: Reach me out!
 
