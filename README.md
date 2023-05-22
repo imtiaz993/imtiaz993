@@ -6,7 +6,7 @@ A Front End <b>ReactJS NextJS React Native</b> Developer and eagerly snatching u
 
 [![Freelancer Badge](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/sarmed)](https://www.upwork.com/freelancers/~01dc31d3b5de771d02) [![Linkedin Badge](https://img.shields.io/badge/-@imtiazhussain-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiaz-hussain-a48391211/) [![Mail Badge](https://img.shields.io/badge/-imtiazh993@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:imtiazh993@gmail.com)
 
-- 🔭 I’m currently working as a Fulltime Developer @ <a href='https://esspfa.com/'>Esspfa</a> and <a href='https://upwork.com/'>Upwork</a>
+- 🔭 I’m currently working as a Fulltime Developer @ <a href='https://upwork.com/'>Upwork</a>
 - 🤔 I’m looking for help with Outstanding project ideas & contributions in MERN AND WEB3.
 - ⚡ Fun fact: I can code for more than 12 hours continuously.
 
