@@ -8,7 +8,6 @@ A Front End <b>ReactJS NextJS React Native</b> Developer and eagerly snatching u
 
 - 🔭 I’m currently working as a Fulltime Developer @ <a href='https://upwork.com/'>Upwork</a>
 - 🤔 I’m looking for help with Outstanding project ideas & contributions in MERN AND WEB3.
-- ⚡ Fun fact: I can code for more than 12 hours continuously.
 
 ## ⚡ Technologies
 
@@ -21,6 +20,5 @@ A Front End <b>ReactJS NextJS React Native</b> Developer and eagerly snatching u
 
 <br >
 
-I enjoy creating user-friendly online applications that promote large traffic, lots of page views, and great user experiences. removing issues from current websites and adding improvements that greatly increase the operation and speed of the web. Ensured that all projects were delivered on schedule and efficiently, managing the entire lifecycle of software development for many.
 
-I long to collaborate with you and offer high-level, solid answers to your programming problems. Please get in touch with me so that we may talk more about how to fulfil your needs.
+I long to collaborate with you and offer high-level, solid answers to your programming problems. Please get in touch with me so that we may talk more about how to fulfill your needs.
