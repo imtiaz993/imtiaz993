@@ -26,4 +26,3 @@ I long to collaborate with you and offer high-level, solid answers to your progr
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiaz993&show_icons=true&locale=en" alt="imtiaz993" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imtiaz993"/></a>
