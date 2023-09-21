@@ -24,6 +24,4 @@ I long to collaborate with you and offer high-level, solid answers to your progr
 <br >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiaz993&show_icons=true&locale=en&layout=compact" alt="imtiaz993" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiaz993&show_icons=true&locale=en" alt="imtiaz993" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=imtiaz993&theme=dark)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiaz993&show_icons=true&locale=en" alt="imtiaz993" /></p>
