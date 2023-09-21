@@ -6,7 +6,6 @@ A Front End <b>ReactJS NextJS React Native</b> Developer and eagerly snatching u
 
  [![Linkedin Badge](https://img.shields.io/badge/-@imtiazhussain-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiaz-hussain-a48391211/) [![Mail Badge](https://img.shields.io/badge/-imtiazh993@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:imtiazh993@gmail.com)
 
-- 🤔 I’m looking for help with Outstanding project ideas & contributions in MERN AND WEB3.
 
 ## ⚡ Technologies
 
@@ -21,3 +20,10 @@ A Front End <b>ReactJS NextJS React Native</b> Developer and eagerly snatching u
 
 
 I long to collaborate with you and offer high-level, solid answers to your programming problems. Please get in touch with me so that we may talk more about how to fulfill your needs.
+
+<br >
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiaz993&show_icons=true&locale=en&layout=compact" alt="imtiaz993" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiaz993&show_icons=true&locale=en" alt="imtiaz993" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtiaz993&" alt="imtiaz993" /></p>
