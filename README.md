@@ -22,9 +22,9 @@ A Front End <b>ReactJS NextJS React Native</b> Developer and eagerly snatching u
 I long to collaborate with you and offer high-level, solid answers to your programming problems. Please get in touch with me so that we may talk more about how to fulfill your needs.
 
 ## 📊 Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=alirazar10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alirazar10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alirazar10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=imtiaz993&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imtiaz993&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaz993&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiaz993&show_icons=true&locale=en&layout=compact" alt="imtiaz993" /></p>
 
