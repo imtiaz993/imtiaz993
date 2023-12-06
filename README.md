@@ -22,9 +22,8 @@ A Front End <b>ReactJS NextJS React Native</b> Developer and eagerly snatching u
 I long to collaborate with you and offer high-level, solid answers to your programming problems. Please get in touch with me so that we may talk more about how to fulfill your needs.
 
 ## 📊 Github Stats:
-<div style="margin:0px auto">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaz993&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- </div>
+
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=imtiaz993&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imtiaz993&theme=dark&hide_border=false)
