@@ -4,7 +4,7 @@ A Front End <b>ReactJS NextJS React Native</b> Developer and eagerly snatching u
 
 :mailbox: Reach me out!
 
- [![Linkedin Badge](https://img.shields.io/badge/-@imtiazhussain-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiaz-hussain-a48391211/) [![Mail Badge](https://img.shields.io/badge/-imtiazh993@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:imtiazh993@gmail.com)
+ [![Mail Badge](https://img.shields.io/badge/-imtiazh993@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:imtiazh993@gmail.com)
 
 
 ## 💻 Tech Stack:
